@@ -1,0 +1,4 @@
+.idea
+.golangci.yml
+c.out
+coverage.out
